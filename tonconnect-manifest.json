@@ -17,11 +17,6 @@
     ],
     "platforms": ["ios", "android", "web","chrome", "firefox"],
     "features": [
-      {
-        "name": "SendTransaction",
-        "maxMessages": 1,
-        "extraCurrencySupported": false
-      }
     ],
     "ton_proof": "enabled"
   }
