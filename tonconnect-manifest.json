@@ -1,6 +1,8 @@
 {
     "app_name": "safepalwallet",
+    "url": "http://192.168.31.170:3866",
     "name": "SafePal",
+    "iconUrl": "https://s.pvcliping.com/web/public_image/SafePal_x288.png",
     "image": "https://s.pvcliping.com/web/public_image/SafePal_x288.png",
     "about_url": "https://www.safepal.com",
     "universal_url": "https://link.safepal.io/ton-connect",
