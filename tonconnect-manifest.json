@@ -15,7 +15,7 @@
         "key": "safepalwallet"
       }
     ],
-    "platforms": ["ios", "android", "web","chrome", "firefox"],
+    "platforms": ["ios", "android", "chrome", "firefox", "safari", "windows", "macos", "linux", "web"],
     "features": [
     ],
     "ton_proof": "enabled"
