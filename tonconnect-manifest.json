@@ -1,24 +1,6 @@
 {
-    "app_name": "safepalwallet",
-    "url": "http://192.168.31.170:3866",
+    "url": "https://192.168.5.23:3866",
     "name": "SafePal",
     "iconUrl": "https://s.pvcliping.com/web/public_image/SafePal_x288.png",
-    "image": "https://s.pvcliping.com/web/public_image/SafePal_x288.png",
-    "about_url": "https://www.safepal.com",
-    "universal_url": "https://link.safepal.io/ton-connect",
-    "deepLink": "safepal-tc://",
-    "bridge": [
-      {
-        "type": "sse",
-        "url": "https://ton-bridge.safepal.com/tonbridge/v1/bridge"
-      },
-      {
-        "type": "js",
-        "key": "safepalwallet"
-      }
-    ],
-    "platforms": ["ios", "android", "chrome", "firefox", "safari", "windows", "macos", "linux", "web"],
-    "features": [
-    ],
     "ton_proof": "enabled"
   }
