@@ -1,5 +1,5 @@
 {
-  "url": "https://devtestx.safepal.com/",
+  "url": "https://192.168.5.23:3866/",
   "name": "SafePal",
   "iconUrl": "https://static.safepal.com/safepal-logo-288.png",
 	"ton_proof": "enabled"
